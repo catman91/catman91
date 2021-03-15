@@ -4,7 +4,7 @@
 
 `My Skills: Python / Jupyter/ SQL/ DDL/ NoSQL / Linux / CLI / HTML / HTTP / REST API / Hadoop / Map Reduce / Hive / HBase / Hue / Apache Spark / PySpark / Spark Streaming / Kafka / Airflow / MongoDB / Cassandra / HDFS / RDBMS / DevOps / Gitlab / CI/CD / Docker / Kubernetes /Machine Learning`
 
-[readme](file:///C:/Users/catma/OneDrive/Рабочий стол/Geek Brains/IObn.gif)
+[readme](file:///C:\IObn.gif)
 
 
 **Мои основные задачи как DE:**
@@ -23,6 +23,7 @@
 + Опыт работы с Hadoop кластером и HDFS, мониторинг своих приложений
 
 📫*Контактный e-mail: goodcatman@icloud.com*
+***
 *Контактный номер сот.тел.: 8 (985) 974-16-39*
 
 
