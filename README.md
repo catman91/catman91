@@ -1,8 +1,38 @@
-### Hi there 👋, меня зовут Ширманов Роман
+### Всем привет 👋, меня зовут Ширманов Роман
 #### Обо мне:
 Изучаю технологии DE
 
-Skills: Python / Jupyter/ SQL/ DDL/ NoSQL/Linux/CLI/HTML/HTTP/REST API/Hadoop/Map Reduce/Hive/HBase/Hue/Apache Spark/PySpark/Spark Streaming/Kafka/Airflow/MongoDB/Cassandra/HDFS/RDBMS/DevOps/Gitlab/CI/CD/Docker/Kubernetes/Machine Learning
+MY Skills: 
+Python  
+Jupyter 
+SQL
+DDL/ 
+NoSQL/
+Linux/
+CLI/
+HTML/
+HTTP/
+REST API/
+Hadoop/
+Map Reduce/
+Hive/
+HBase/
+Hue/
+Apache Spark/
+PySpark/
+Spark Streaming/
+Kafka/
+Airflow/
+MongoDB/
+Cassandra/
+HDFS/
+RDBMS/
+DevOps/
+Gitlab/
+CI/CD/
+Docker/
+Kubernetes/
+Machine Learning
 
 - 🔭 I’m currently working on this page. 
 
