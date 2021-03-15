@@ -1,43 +1,16 @@
-### Всем привет 👋, меня зовут Ширманов Роман
+![banner](https://yandex.ru/images/search?pos=17&img_url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2Far0%2Feb0d26d8b624762e9fe4746b204d2a79.png&text=%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0&lr=10716&rpt=simage&source=wiz)
+
+
+### Hi there 👋, меня зовут Ширманов Роман
 #### Обо мне:
 Изучаю технологии DE
 
-MY Skills: 
-Python  
-Jupyter 
-SQL
-DDL/ 
-NoSQL/
-Linux/
-CLI/
-HTML/
-HTTP/
-REST API/
-Hadoop/
-Map Reduce/
-Hive/
-HBase/
-Hue/
-Apache Spark/
-PySpark/
-Spark Streaming/
-Kafka/
-Airflow/
-MongoDB/
-Cassandra/
-HDFS/
-RDBMS/
-DevOps/
-Gitlab/
-CI/CD/
-Docker/
-Kubernetes/
-Machine Learning
+Skills: **Python / Jupyter/ SQL/ DDL/ NoSQL/Linux/CLI/HTML/HTTP/REST API/Hadoop/Map Reduce/Hive/HBase/Hue/Apache Spark/PySpark/Spark Streaming/Kafka/Airflow/MongoDB/Cassandra/HDFS/RDBMS/DevOps/Gitlab/CI/CD/Docker/Kubernetes/Machine Learning**
 
-- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: goodcatman@icloud.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/catman91)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/catman91)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/roman.shirmanov/)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
