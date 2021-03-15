@@ -4,7 +4,7 @@
 
 `My Skills: Python / Jupyter/ SQL/ DDL/ NoSQL / Linux / CLI / HTML / HTTP / REST API / Hadoop / Map Reduce / Hive / HBase / Hue / Apache Spark / PySpark / Spark Streaming / Kafka / Airflow / MongoDB / Cassandra / HDFS / RDBMS / DevOps / Gitlab / CI/CD / Docker / Kubernetes /Machine Learning`
 
-<img src="file:///C:/Users/catma/OneDrive/Рабочий стол/Geek Brains/IObn.gif" />
+[readme](file:///C:/Users/catma/OneDrive/Рабочий стол/Geek Brains/IObn.gif)
 
 
 **Мои основные задачи как DE:**
