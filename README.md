@@ -19,8 +19,8 @@
 + Разработка витрин данных для бизнес-пользователей аналитики
 + Опыт работы с Hadoop кластером и HDFS, мониторинг своих приложений
 
-*- 📫 Контактный e-mail: goodcatman@icloud.com
-- Контактный номер сот.тел.: 8 (985) 974-16-39*
+📫*Контактный e-mail: goodcatman@icloud.com*
+*Контактный номер сот.тел.: 8 (985) 974-16-39*
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/catman91)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/roman.shirmanov/)  
