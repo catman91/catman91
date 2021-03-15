@@ -4,8 +4,7 @@
 
 `My Skills: Python / Jupyter/ SQL/ DDL/ NoSQL / Linux / CLI / HTML / HTTP / REST API / Hadoop / Map Reduce / Hive / HBase / Hue / Apache Spark / PySpark / Spark Streaming / Kafka / Airflow / MongoDB / Cassandra / HDFS / RDBMS / DevOps / Gitlab / CI/CD / Docker / Kubernetes /Machine Learning`
 
-[readme](file:\\\C:\IObn.gif)
-
+<http://https://yandex.ru/images/search?text=%D0%BA%D0%BE%D0%B4&from=tabbar&pos=1&img_url=https%3A%2F%2Fcdn.wallpapersafari.com%2F45%2F59%2F784p9o.jpg&rpt=simage>
 
 **Мои основные задачи как DE:**
 + Разработка, поддержка и оптимизация пайплайнов обработки данных и машинного обучения на Python и Spark 
